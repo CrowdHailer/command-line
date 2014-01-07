@@ -1,0 +1,3 @@
+wc is the command line word count command
+it returns as refault number or charachters words an lines.
+It can be switched to return only one of the above with either -c -w -l
