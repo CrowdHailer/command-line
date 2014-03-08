@@ -1,7 +1,7 @@
 command-line
 ============
 
-This is to describe the terminal command that we used and learn in our first week at Makers Academy.
+This is to describe the terminal command that we used and learnt in our first week at Makers Academy.
 The commands included are
 
 1. cp
